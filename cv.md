@@ -16,7 +16,7 @@ Front-end developer _(beginner)_
 
 ## ✨Summary
 
-_I am 30 years old.  I've got a master's degree in civil engineering and have been working in this specialty for 8 years. But I decided to try something new and that's why I'm currently taking theonline JS/FE course at RS-School for 2 weeks. I'm motivated to learn this new practice for me._
+_I am 30 years old.  I've got a master's degree in civil engineering and have been working in this specialty for 8 years. But I decided to try something new and that's why I'm currently taking online JS/FE course at RS-School for 2 weeks. I'm motivated to learn this new practice for me._
 
 ## ✨Skills (in progress)
 
