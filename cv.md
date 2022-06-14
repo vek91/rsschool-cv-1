@@ -1,14 +1,14 @@
 ## **Volik Eugene** 
 Front-end developer _(beginner)_
 
-![Alt-foto] (https://rs.school/images/rs_school_js.svg "foto")
+![Alt-I](./D:\Волик\html\i.jpg)
 
- ### ✨Contacts
+### ✨Contacts
 
-email:  [vek91@mail.ru](mailto:vek91@mail.ru)
-tel.: _+375295109649_
-GitHub: [https://github.com/vek91](https://github.com/vek91)
-location: [Grodno, Belarus]
+- email:  [vek91@mail.ru](mailto:vek91@mail.ru)
+- tel.: _+375295109649_
+- GitHub: [https://github.com/vek91](https://github.com/vek91)
+- location: [Grodno, Belarus]
 
 ### ✨About me
 
@@ -16,10 +16,10 @@ _I am 30 years old.  I've got a master's degree in civil engineering and have be
 
 ### ✨Skills (in progress)
 
-- HTML
-- CSS
-- Javascript
-- Git
+- ![Alt-HTML](https://.png) HTML
+- ![Alt-CSS](https:///.png) CSS
+- ![Alt-Javascript](https:///.png) Javascript
+- ![Alt-Git](https:///.png) Git
 
 ### ✨Expierence
 No expierence in IT
@@ -46,17 +46,13 @@ RS-School, "JavaScript/Front-end" course, 2022
 B1 - Pre-Intermediate 
 
 
-
-
-[My github]
+[![Alt-github](https://pngimg.com/uploads/github/github_PNG83.png)](https://github.com/vek91)
 
 2022
 
-[logo RS-School](https://rs.school/js/)
+[![Alt-foto](https://rs.school/images/rs_school_js.svg)](https://rs.school/js/)
 
 
 [Grodno, Belarus]:[https://www.google.com/maps/place/Гродно/@53.6840872,23.780812,12z/data=!3m1!4b1!4m5!3m4!1s0x46dfd64beac55d1d:0xf013fd26569718c0!8m2!3d53.6687634!4d23.8222673?hl=ru]
 [Example html,css file]:(https://vek91.github.io/rsschool-cv/)
 [Example markdown file file]:(https://vek91.github.io/rsschool-cv/cv)
-[My github]: [https://github.com/vek91]
-[logo RS-School]:[https://rs.school/js/]
