@@ -3,7 +3,9 @@ Front-end developer _(beginner)_
 
 ![Alt-I](./D:\Волик\html\i.jpg)
 
-| [Contacts] | [Summary] | [Skills] | [Expierence] | [Code example]  |  [Education]  |  [English]  |
+ [Contacts](#✨Contacts)
+
+| [Contacts](✨Contacts) | [Summary](✨Summary) | [Skills](✨Skills) | [Expierence](✨Expierence) | [Code example](✨Code-example)  |  [Education](✨Education)  |  [English](✨English)  |
 | ---------- | ----------|----------| -------------|---------------- |---------------|-------------|
 
 
@@ -27,7 +29,7 @@ _I am 30 years old.  I've got a master's degree in civil engineering and have be
 - ![Alt-Javascript](https:///.png) Javascript
 - ![Alt-Git](https:///.png) Git
 
-### ✨Expierence
+## ✨Expierence
 No expierence in IT
 
 ## ✨Code example
