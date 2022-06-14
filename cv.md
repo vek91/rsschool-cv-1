@@ -35,9 +35,15 @@ alert(message);
 Grodno State University, 2014
 RS-School, "JavaScript/Front-end" course, 2022
 
+### ✨Projects
+
+[Example html,css file]
+[Example markdown file file]
+
+
 ### ✨English
 
-B1 - Intermediate 
+B1 - Pre-Intermediate 
 
 
 
@@ -50,5 +56,7 @@ B1 - Intermediate
 
 
 [Grodno, Belarus]:[https://www.google.com/maps/place/Гродно/@53.6840872,23.780812,12z/data=!3m1!4b1!4m5!3m4!1s0x46dfd64beac55d1d:0xf013fd26569718c0!8m2!3d53.6687634!4d23.8222673?hl=ru]
+[Example html,css file]:(https://vek91.github.io/rsschool-cv/)
+[Example markdown file file]:(https://vek91.github.io/rsschool-cv/cv)
 [My github]: [https://github.com/vek91]
 [logo RS-School]:[https://rs.school/js/]
